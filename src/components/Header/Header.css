@@ -1,0 +1,83 @@
+.header{
+    background-color: rgb(44, 18, 0);
+    color: white;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+}
+.header_container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_list{
+    width: 50%;
+}
+.list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header_img{
+    width: 100px;
+}
+.lists{
+    text-decoration: none;
+    color: goldenrod;
+}
+.lists:hover{
+    color: white;
+}
+.home_hover{
+    transition: 0.5s;
+}
+.home_hover:hover{
+    transform: scale(1.3);
+}
+.home{
+    z-index: 11111;
+    }
+.About_hover{
+    transition:0.5s;
+    width: 50px;
+    text-align: center;
+}   
+.About_hover:hover{
+    transform: scale(1.3);
+} 
+.About{
+    z-index: 11111;
+}
+.Menu_hover{
+    transition: 0.5s;
+    width: 50px;
+    text-align: center;
+    padding-top: 2px;
+}
+.Menu_hover:hover{
+    transform: scale(1.2);
+}
+.Menu{
+    z-index: 11111;
+}
+.Photo_hover{
+    transition: 0.5s;
+    width: 50px;
+    position: absolute;
+    top: 28px;
+    left: 90%;
+}
+.Photo_hover:hover{
+    transform: scale(1.2);
+}
+.Photo{
+    z-index: 11111;
+    height:45px ;
+    width: 43px;
+}
+

@@ -1,0 +1,92 @@
+.about_container{
+    width: 90%;
+    margin: 5% auto;
+    color: goldenrod;
+}
+.about_chef{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+}
+.photo_title{
+    font-size: 350%;
+}
+.chef_img{
+    width: 400px;
+}
+.chef_info{
+    width: 50%;
+    height: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.about_barman{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+}
+.barman_img{
+    width: 400px;
+}
+.barman_info{
+    width: 50%;
+    height: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.about_waiters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+}
+.waiters_img{
+    width: 700px;
+}
+.waiters_info{
+    width: 50%;
+    height: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.about_creators{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.creators_img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.creator{
+    width: 350px;
+}
+.about_location{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+    height: 500px;
+    justify-content: space-between;
+}
+.iframe_map{
+    width: 400px;
+    height: 400px;
+}

@@ -1,0 +1,186 @@
+.photo_container{
+    width: 90%;
+    margin: 5% auto;
+    color: goldenrod;
+}
+.photo_chicken{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 850px;
+}
+.three_chicken{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 700px;
+    height: 500px;
+}
+.chicken_name{
+    width: 300%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chicken3{
+    width: 80%;
+    height: 80%;
+    border-radius: 20px;
+}
+.last_chicken{
+    width: 100%;
+    border-radius: 20px;
+}
+.last_chicken_name{
+    width:750px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 1px;
+    background-color: goldenrod;
+}
+.photo_pizza{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pizzas_photo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.pizza_firstphoto{
+    width: 70%;
+    border-radius: 20px;
+}
+.pizzas{
+    width: 500px;
+    height: 100px;
+    border-radius: 20px;
+}
+.karbonaro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 770px;
+    height: 850px;
+}
+.pizzas_3{
+    display: flex;
+    width: 770px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+.photo_sushi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.four_picture{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sushi_twoPhoto_row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    height: 300px;
+}
+.sushi{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+.sushi_1block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.salad_2photo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.salad_twoph{
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+}
+.photo_salad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pictures_salad{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    height: 760px;
+}
+.salad{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+.salad_oliv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.salad_kis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.salad_3photo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.salad_caesar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.salad_grenki{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.salad_mimosa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

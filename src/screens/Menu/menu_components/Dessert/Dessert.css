@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Lobster&family=Mulish:wght@200&display=swap');
+.Desserts h1{
+font-family: "Lobster";
+font-size: 50px;
+margin-top:-25%;
+margin-left: 70%;
+color: goldenrod;
+}
+.Desserts h3{
+font-family: "Lobster";
+font-size: 50px;
+    color: goldenrod;
+margin-left: 75%;
+}
+.Desserts button{
+    margin-left: 68%;
+    width: 15%;
+    border: none;
+    background:brown;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease; 
+}
+.Desserts button:hover{
+    background:none;
+    color:white;
+    box-shadow: inset 0 0 0 3px white;
+}
+.Desserts-2 button{
+    margin-left: 13%;
+    width: 15%;
+    border: none;
+    background:brown;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease; 
+}
+.Desserts-2 button:hover{
+    background:none;
+    color:white;
+    box-shadow: inset 0 0 0 3px white;
+}
+
+.Desserts img{
+    margin-top: 5%;
+    border-radius: 10%;
+    height: 450px;
+    width: 650px;
+}
+.Desserts-2 h1{
+font-family: "Lobster";
+font-size: 50px;
+ margin-left: 15%;
+ margin-top: -15%;
+color: goldenrod;
+}
+.Desserts-2 h3{
+font-family: "Lobster";
+font-size: 50px;
+    margin-left: 18%;
+    color: goldenrod;
+}
+.Desserts-2 img{
+    border-radius: 10%;
+    display: flex;
+    margin-top: 15% ;
+    margin-left: 57%;
+    height: 450px;
+    width: 650px;
+}

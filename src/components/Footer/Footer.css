@@ -1,0 +1,84 @@
+.footer{
+    background-color: rgb(44, 18, 0);
+    height: 350px;
+    margin-top: 5%;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    padding-top: 2%;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer_subscribe{
+    width: 50%;
+    height: 130px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+.subscribe{
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.subscribe_input{
+    width: 85%;
+    height: 40px;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    padding-left: 3%;
+}
+.subscribe_btn{
+    width: 14%;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background-color: black;
+    color: goldenrod;
+}
+.footer_socia{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: goldenrod;
+    margin-top: 3%;
+}
+.socia_text{
+    font-size: 30px;
+}
+.facebook{
+    width: 40px;
+}
+.inst{
+    width: 40px;
+}
+.socias{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer_created{
+    color: gray;
+    margin-top: 2%;
+    font-size: 15px;
+}
+.whatsapp{
+    width: 40px;
+}
+.telegram{
+    width: 40px;
+}
+.twitter{
+    width: 40px;
+}
+.github{
+    width: 40px;
+}
